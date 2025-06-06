@@ -2,8 +2,8 @@
 
 ## Back-end
 
-- [ ] Criar estrutura inicial com Node.js e Express
-- [ ] Configurar rotas para autenticação (login e cadastro)
+- [x] Criar estrutura inicial com Node.js e Express
+- [x] Configurar rotas para autenticação (login e cadastro)
 - [ ] Implementar CRUD de álbuns e reviews
 - [ ] Utilizar um banco de dados simulado (JSON ou memória) inicialmente
 
